@@ -6,7 +6,7 @@ This project is an implementation of a modular **telegram bot** based on [aiogra
 -  **LLMs** such as **[llama](https://github.com/facebookresearch/llama)**, **[gpt-j-6b](https://github.com/kingoflolz/mesh-transformer-jax#gpt-j-6b)**, **[cerebras-gpt](https://github.com/Cerebras/modelzoo)**, **[gpt-2](https://huggingface.co/gpt2)** with support for assistant mode   
 via [alpaca-lora](https://github.com/tloen/alpaca-lora), via [gpt4all-lora](https://github.com/nomic-ai/gpt4all#reproducibility), via [adapter-model](https://github.com/ZrrSkywalker/LLaMA-Adapter) and via [minChatGPT](https://github.com/ethanyanjiali/minChatGPT)
   
-evolved from predecessor [Botality I](https://github.com/remixer-dec/ru-gpt3-telegram-bot)  
+evolved from predecessor  [Botality I](https://github.com/remixer-dec/ru-gpt3-telegram-bot)  
 
 ### Features
 [Bot]
